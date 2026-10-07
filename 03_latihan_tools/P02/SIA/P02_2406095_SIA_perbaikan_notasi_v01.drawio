@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e">
+    <diagram id="lBh8tFN2Z3fPMDYJlEsY" name="Page-1">
+        <mxGraphModel dx="438" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="_n84TUpns-n3kz_mdwft-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="sistem laboratorium.&amp;nbsp;" vertex="1">
+                    <mxGeometry height="360" width="340" x="200" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="_n84TUpns-n3kz_mdwft-3" parent="_n84TUpns-n3kz_mdwft-1" style="whiteSpace=wrap;html=1;" value="kelola jadwal&lt;div&gt;kuliah&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="210" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="_n84TUpns-n3kz_mdwft-2" parent="_n84TUpns-n3kz_mdwft-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
+                    <mxGeometry height="60" width="30" x="20" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="_n84TUpns-n3kz_mdwft-4" edge="1" parent="_n84TUpns-n3kz_mdwft-1" source="_n84TUpns-n3kz_mdwft-2" style="html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="_n84TUpns-n3kz_mdwft-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

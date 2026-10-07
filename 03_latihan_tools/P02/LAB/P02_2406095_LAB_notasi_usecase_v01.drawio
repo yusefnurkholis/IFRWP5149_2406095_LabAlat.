@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="mWTMQ62Mjd7zLOc0b7rp" name="Page-1">
+        <mxGraphModel dx="605" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="EROeB0O2OCgx_IQauKHt-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=200;height=70;" value="Sistem Informasi Peminjaman dan Pengembalian Peralatan Laboratorium &lt;br/&gt;Kampus" vertex="1">
+                    <mxGeometry height="300" width="340" x="170" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="EROeB0O2OCgx_IQauKHt-5" parent="EROeB0O2OCgx_IQauKHt-1" style="ellipse;fontSize=11;" value="lihat ketersedian&#xa; peralatan " vertex="1">
+                    <mxGeometry height="50" width="100" x="30" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="EROeB0O2OCgx_IQauKHt-8" parent="EROeB0O2OCgx_IQauKHt-1" style="ellipse;" value="kelola data &#xa;peralatan" vertex="1">
+                    <mxGeometry height="40" width="90" x="210" y="145" as="geometry"/>
+                </mxCell>
+                <mxCell id="EROeB0O2OCgx_IQauKHt-15" edge="1" parent="1" source="EROeB0O2OCgx_IQauKHt-2" style="html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="EROeB0O2OCgx_IQauKHt-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EROeB0O2OCgx_IQauKHt-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
+                    <mxGeometry height="60" width="30" x="50" y="175" as="geometry"/>
+                </mxCell>
+                <mxCell id="EROeB0O2OCgx_IQauKHt-16" edge="1" parent="1" source="EROeB0O2OCgx_IQauKHt-3" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;endArrow=none;endFill=0;" target="EROeB0O2OCgx_IQauKHt-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EROeB0O2OCgx_IQauKHt-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="petugas&amp;nbsp;&lt;div&gt;lab&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="30" x="560" y="170" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

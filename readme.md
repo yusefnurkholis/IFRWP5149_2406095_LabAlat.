@@ -3,15 +3,15 @@ NIM : 2406095
 kelas : c
 kakas : DRAW.IO
 
-• Folder induk memakai NIM dan nama kasus yang benar.
-• README menjelaskan identitas, kakas, dan status latihan.
-• Logbook serta template metadata tersedia dan dapat dibaca.
-• Diagram memuat empat elemen latihan, tiga alur penghubung, dan label
-yang terbaca.
-• Diagram diberi status belum divalidasi; tidak ada aturan bisnis tambahan
-yang diklaim sebagai fakta.
-• Berkas sumber dapat dibuka kembali dan disunting.
-• Gambar ekspor sesuai dengan versi terakhir berkas sumber.
-• Nama serta nomor versi pada berkas sumber dan ekspor konsisten.
-• Arsip pengumpulan dapat dibuka dan tidak memuat kredensial atau data
-pribadi nyata.
+pertemuan 2 unified modelling language (UML)
+
+1. Menempatkan simbol aktor, use case, batas sistem, dan asosiasi pada
+   diagram sederhana sesuai contoh yang disediakan.
+2. Menggunakan nama aktor dan fungsi secara konsisten dengan skenario
+   latihan.
+3. Mengisi identitas artefak melalui template yang telah disiapkan pada
+   Pertemuan 1.
+4. Menyimpan berkas sumber dan ekspor dengan nama, lokasi, serta nomor
+   versi yang konsisten.
+5. Memperbaiki kesalahan notasi dan dokumentasi berdasarkan hasil
+   review, kemudian mencatat perubahannya.
