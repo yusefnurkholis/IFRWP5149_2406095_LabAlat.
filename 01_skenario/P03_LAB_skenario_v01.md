@@ -37,6 +37,9 @@ pada potongan model ini.
 | Kepala laboratorium | Melihat laporan peminjaman |
 
 
+
+
+
 | ID | Nama use case | Peran dalam model |
 |---|---|---|
 | LAB-UC01 | Lihat ketersediaan peralatan | Fungsi utama mahasiswa |
