@@ -22,55 +22,58 @@
                 <mxCell id="_zYyJ_OiUFmR7_5tX_iR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=1;collapsible=0;" value="" vertex="1">
                     <mxGeometry height="1050" width="980" x="220" y="35" as="geometry"/>
                 </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-20" parent="_zYyJ_OiUFmR7_5tX_iR-6" style="ellipse;dashed=1;dashPattern=8 4;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fillColor=#fff2cc;" value="SIA-CO01&#xa;Input Nilai Mata Kuliah" vertex="1">
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-20" parent="_zYyJ_OiUFmR7_5tX_iR-6" style="ellipse;dashed=1;dashPattern=8 4;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fillColor=#fff2cc;" value="&lt;br&gt;Input Nilai Mata Kuliah" vertex="1">
                     <mxGeometry height="65" width="200" x="630" y="555" as="geometry"/>
                 </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-14" parent="_zYyJ_OiUFmR7_5tX_iR-6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC08&#xa;Input Nilai Mata Kuliah" vertex="1">
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-14" parent="_zYyJ_OiUFmR7_5tX_iR-6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="&lt;br&gt;Input Nilai Mata Kuliah" vertex="1">
                     <mxGeometry height="65" width="200" x="630" y="665" as="geometry"/>
                 </mxCell>
                 <mxCell id="_zYyJ_OiUFmR7_5tX_iR-38" edge="1" parent="_zYyJ_OiUFmR7_5tX_iR-6" source="_zYyJ_OiUFmR7_5tX_iR-20" style="dashed=1;endArrow=block;endFill=0;html=1;" target="_zYyJ_OiUFmR7_5tX_iR-14" value="">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-21" parent="_zYyJ_OiUFmR7_5tX_iR-6" style="ellipse;dashed=1;dashPattern=8 4;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fillColor=#fff2cc;" value="SIA-CO02&#xa;Lihat KHS" vertex="1">
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-21" parent="_zYyJ_OiUFmR7_5tX_iR-6" style="ellipse;dashed=1;dashPattern=8 4;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fillColor=#fff2cc;" value="&lt;br&gt;Lihat KHS" vertex="1">
                     <mxGeometry height="65" width="200" x="720" y="765" as="geometry"/>
                 </mxCell>
                 <mxCell id="_zYyJ_OiUFmR7_5tX_iR-43" parent="_zYyJ_OiUFmR7_5tX_iR-6" style="fontStyle=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sistem Informasi Akademik, Layanan Hasil Studi &lt;/font&gt;" vertex="1">
                     <mxGeometry height="135" width="340" x="640" as="geometry"/>
                 </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC01&#xa;Lihat Jadwal Kuliah" vertex="1">
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-9" parent="_zYyJ_OiUFmR7_5tX_iR-6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="&lt;br&gt;Ajukan KRS" vertex="1">
+                    <mxGeometry height="65" width="200" x="120" y="345" as="geometry"/>
+                </mxCell>
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-11" parent="_zYyJ_OiUFmR7_5tX_iR-6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="&lt;br&gt;Unduh Bukti&lt;br&gt;Pengajuan KRS" vertex="1">
+                    <mxGeometry height="65" width="200" x="80" y="575" as="geometry"/>
+                </mxCell>
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-32" edge="1" parent="_zYyJ_OiUFmR7_5tX_iR-6" source="_zYyJ_OiUFmR7_5tX_iR-11" style="dashed=1;endArrow=open;endFill=0;html=1;" target="_zYyJ_OiUFmR7_5tX_iR-9" value="«extend»">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-13" parent="_zYyJ_OiUFmR7_5tX_iR-6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="&lt;br&gt;Lihat Kalender Akademik" vertex="1">
+                    <mxGeometry height="65" width="200" x="290" y="655" as="geometry"/>
+                </mxCell>
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-18" parent="_zYyJ_OiUFmR7_5tX_iR-6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="Ubah Data Mahasiswa" vertex="1">
+                    <mxGeometry height="65" width="200" x="330" y="935" as="geometry"/>
+                </mxCell>
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="&lt;br&gt;Lihat Jadwal Kuliah" vertex="1">
                     <mxGeometry height="65" width="200" x="300" y="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC02&#xa;Kelola Jadwal Kuliah" vertex="1">
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="&lt;br&gt;Kelola Jadwal Kuliah" vertex="1">
                     <mxGeometry height="65" width="200" x="300" y="260" as="geometry"/>
                 </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC03&#xa;Ajukan KRS" vertex="1">
-                    <mxGeometry height="65" width="200" x="300" y="420" as="geometry"/>
-                </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC04&#xa;Validasi KRS" vertex="1">
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="&lt;br&gt;Validasi KRS" vertex="1">
                     <mxGeometry height="65" width="190" x="570" y="420" as="geometry"/>
                 </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC05&#xa;Unduh Bukti&#xa;Pengajuan KRS" vertex="1">
-                    <mxGeometry height="65" width="200" x="300" y="560" as="geometry"/>
-                </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC06&#xa;Proses Keputusan KRS" vertex="1">
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="&lt;br&gt;Proses Keputusan KRS" vertex="1">
                     <mxGeometry height="65" width="190" x="570" y="590" as="geometry"/>
                 </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC07&#xa;Lihat Kalender Akademik" vertex="1">
-                    <mxGeometry height="65" width="200" x="570" y="760" as="geometry"/>
-                </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC09&#xa;Lihat KHS" vertex="1">
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="&lt;br&gt;Lihat KHS" vertex="1">
                     <mxGeometry height="65" width="200" x="850" y="900" as="geometry"/>
                 </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC10&#xa;Kelola Data Mahasiswa" vertex="1">
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="Kelola Data Mahasiswa" vertex="1">
                     <mxGeometry height="65" width="200" x="300" y="850" as="geometry"/>
                 </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC11&#xa;Tambah Data Mahasiswa" vertex="1">
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="&lt;br&gt;Tambah Data Mahasiswa" vertex="1">
                     <mxGeometry height="65" width="200" x="570" y="850" as="geometry"/>
                 </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC12&#xa;Ubah Data Mahasiswa" vertex="1">
-                    <mxGeometry height="65" width="200" x="570" y="950" as="geometry"/>
-                </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="SIA-UC13&#xa;Hapus Data Mahasiswa" vertex="1">
+                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;" value="&lt;br&gt;Hapus Data Mahasiswa" vertex="1">
                     <mxGeometry height="65" width="200" x="850" y="1000" as="geometry"/>
                 </mxCell>
                 <mxCell id="_zYyJ_OiUFmR7_5tX_iR-22" edge="1" parent="1" source="_zYyJ_OiUFmR7_5tX_iR-1" style="endArrow=none;html=1;" target="_zYyJ_OiUFmR7_5tX_iR-7" value="">
@@ -101,9 +104,6 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="_zYyJ_OiUFmR7_5tX_iR-31" edge="1" parent="1" source="_zYyJ_OiUFmR7_5tX_iR-9" style="dashed=1;endArrow=open;endFill=0;html=1;" target="_zYyJ_OiUFmR7_5tX_iR-10" value="«include»">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="_zYyJ_OiUFmR7_5tX_iR-32" edge="1" parent="1" source="_zYyJ_OiUFmR7_5tX_iR-11" style="dashed=1;endArrow=open;endFill=0;html=1;" target="_zYyJ_OiUFmR7_5tX_iR-9" value="«extend»">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="_zYyJ_OiUFmR7_5tX_iR-33" edge="1" parent="1" source="_zYyJ_OiUFmR7_5tX_iR-1" style="endArrow=block;endFill=0;html=1;" target="_zYyJ_OiUFmR7_5tX_iR-4" value="">
