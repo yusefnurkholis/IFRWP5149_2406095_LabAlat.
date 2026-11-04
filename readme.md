@@ -3,28 +3,22 @@ NIM : 2406095
 kelas : c
 kakas : DRAW.IO
 
-pertemuan 5 SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN
+pertemuan 6 ACTIVITY DIAGRAM: DARI SKENARIO KE ALUR AKTIVITAS
 
-1. Menyusun tabel skenario untuk satu use case dengan struktur lengkap 
-yaitu baris Nama use case, Aktor, Tujuan, dan Deskripsi, dilanjutkan 
-kolom Kegiatan dan Respon sistem, bagian Skenario Normal, bagian 
-Skenario Alternative, dan baris Skenario Akhir, tanpa ada field yang 
-kosong. 
-2. Menulis langkah skenario secara berurutan dengan satu aksi pada 
-setiap langkah, pemisahan yang benar antara aksi aktor pada kolom 
-Kegiatan dan tanggapan sistem pada kolom Respon sistem, serta 
-penomoran langkah yang berlanjut dari Skenario Normal ke Skenario 
-Alternative. 
-3. Memetakan relasi include menjadi langkah wajib di dalam Skenario 
-Normal dan relasi extend menjadi cabang bersyarat pada Skenario 
-Alternative yang dilengkapi condition dan extension point. 
-4. Menerapkan generalization aktor dengan menulis skenario satu kali atas 
-nama aktor umum ditambah catatan perbedaan aktor khusus, dan 
-menerapkan generalization use case dengan menulis skenario use case 
-umum ditambah skenario khusus yang hanya memuat perilaku 
-pembeda. 
-5. Menelaah 12 tabel skenario studi kasus laboratorium dari diagram 
-kumulatif Pertemuan 4 dengan mencocokkan setiap tabel terhadap 
-diagram acuan, dan menyusun 7 tabel skenario untuk tugas akademik, 
-dengan nama, ID, aktor, dan relasi yang sama persis dengan diagram 
-acuan.
+1. Menyusun alur utama sebuah activity diagram dari Skenario Normal pada 
+tabel skenario Pertemuan 5, dengan tepat satu initial node, action yang 
+berurutan mengikuti langkah skenario, dan tepat satu activity final node, 
+tanpa alur yang terputus (Indikator 4.1). 
+2. Mengubah Skenario Alternative pada tabel skenario menjadi cabang 
+decision dengan guard yang lengkap dan benar, lalu mengembalikan 
+cabangnya ke alur utama melalui merge atau mengakhirinya pada jalur akhir 
+yang jelas (Indikator 4.2). 
+3. Menggunakan fork dan join sebagai pasangan untuk dua proses yang 
+berjalan paralel, dengan join yang menyatukan kembali kedua proses 
+sebelum alur dilanjutkan (Indikator 4.2). 
+4. Mengelompokkan setiap action ke dalam swimlane yang sesuai dengan 
+aktor pada tabel skenario, sehingga tanggung jawab setiap action terbaca 
+dari partisinya (Indikator 4.1 dan 4.2). 
+5. Menelusurkan setiap action pada activity diagram ke langkah tabel skenario 
+Pertemuan 5 yang menjadi sumbernya, dan memeriksa hasil akhir dengan 
+checklist penilaian sebelum berkas dikumpulkan.
